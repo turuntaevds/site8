@@ -1,0 +1,96 @@
+        body {
+    font-family: sans-serif;
+    background-color: SlateBlue;
+
+}
+body p{
+    font-size: 25px;
+    color:aquamarine;
+}
+header {
+     background-color:PaleTurquoise;
+     text-align: center;
+    color: black
+}
+header img{
+    height: 70px;
+    width: 140px;
+}
+header a{
+    text-decoration-color: Magenta;
+    color: Magenta;
+}
+h1,h2{
+    text-decoration: none;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: Aquamarine;
+    text-align:center;
+}
+.our_stuff img{
+    height: 100px;
+    width: 100px;
+}
+footer{
+    background-color: Violet;
+}
+footer p{
+    color: Violet;
+    text-decoration: none;
+    padding: 5px;
+    margin:5px;
+    border-radius: 10px;
+    background-color:white;
+}
+nav a{
+    color:Violet;    
+}
+.nav_1{
+    text-align: center;
+    text-decoration: none;
+    padding: 1px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color: white;
+}
+.nav_2{
+    text-align: center;
+    text-decoration: none;
+    padding: 1px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color: white;
+}
+.nav_3{
+    text-align: center;
+    text-decoration: none;
+    padding: 1px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color: white;
+}
+.nav_4{
+    text-align: center;
+    text-decoration: none;
+    padding: 1px;
+    margin: 1px;
+    border-radius: 10px;
+    background-color: white;
+}
+.our_stuff{
+    padding: 5px;
+    margin:5px;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:Violet ;
+}
+.navigation{
+    padding:5px;
+    margin: 5px;
+    border-radius: 10px;
+background-color:  Violet;
+color: Aquamarine;
+
+
+}
